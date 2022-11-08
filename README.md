@@ -1,4 +1,4 @@
-[![Build Titanfall 2 Icepick](https://github.com/lonewolf0708/Titanfall-2-Icepick/actions/workflows/build.yml/badge.svg?branch=master&event=status)](https://github.com/lonewolf0708/Titanfall-2-Icepick/actions/workflows/build.yml)
+[![Build Titanfall 2 Icepick](https://github.com/lonewolf0708/Titanfall-2-Icepick/actions/workflows/build.yml/badge.svg)](https://github.com/lonewolf0708/Titanfall-2-Icepick/actions/workflows/build.yml)
 
 # Titanfall 2 Icepick
 
