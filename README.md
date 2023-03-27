@@ -1,4 +1,5 @@
 [![Build Titanfall 2 Icepick](https://github.com/lonewolf0708/Titanfall-2-Icepick/actions/workflows/build.yml/badge.svg)](https://github.com/lonewolf0708/Titanfall-2-Icepick/actions/workflows/build.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flonewolf0708%2FTitanfall-2-Icepick.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flonewolf0708%2FTitanfall-2-Icepick?ref=badge_shield)
 
 # Titanfall 2 Icepick
 
@@ -21,3 +22,7 @@ The Titanfall 2 Icepick makes use of the following third-party libraries:
 | Package Name        | URL                                                                  |
 |---------------------|----------------------------------------------------------------------|
 | Newtonsoft.Json     | https://github.com/JamesNK/Newtonsoft.Json                           |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flonewolf0708%2FTitanfall-2-Icepick.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flonewolf0708%2FTitanfall-2-Icepick?ref=badge_large)
